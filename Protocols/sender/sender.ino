@@ -1,17 +1,3 @@
-/* 
- *  
- *  CSE 132 - Assignment 6
- *  
- *  Fill this out so we know whose assignment this is.
- *  
- *  Name: Shannon Coupland
- *  WUSTL Key: shannon.coupland
- *  
- *  and if two are partnered together
- *  
- *  Name: Karen Ye
- *  WUSTL Key: khye
- */
 unsigned long currentTime = 0;
 unsigned long previousTime = 0;
 unsigned long delta = 1000;
